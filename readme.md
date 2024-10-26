@@ -3,7 +3,7 @@
 ## Connect with me:
 
 <a href="https://linkedin.com/in/algavania" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+  <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
 </a>
 
 ## Languages and Tools:
