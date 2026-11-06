@@ -1,55 +1,95 @@
-# Hello, I'm Alga 👋
+<div align="center">
+  <h1 align="center">Hey there, I'm Alga 👋</h1>
+  <p align="center">
+    <strong>Software Engineer | Builder of Things</strong>
+  </p>
+  <p align="center">
+    Bridging the gap between sleek mobile pixels, rock-solid backends, and intelligent AI systems.<br />
+    <em>In the era of AI, knowing a bit of everything is the ultimate superpower. ⚡</em>
+  </p>
 
-## Connect with me:
-
-<a href="https://linkedin.com/in/algavania" target="_blank">
-  <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-</a>
-
-## Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MariaDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">
-  <img alt="GitHub" width="26px" style="padding-right:10px;">
-</picture>
-
-<br />
-<br />
+  <p align="center">
+    <a href="https://algavania.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/algavania" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-<br />
+### 🚀 Core Focus & Engineering
+
+- 📱 **Mobile & Client-side:** Building high-performance, cross-platform apps with **Flutter (BLoC/Cubit)** and **Android (Kotlin)**. Experienced with production releases on the App Store & Google Play, payment gateways (**Stripe, Apple Pay**), real-time sockets, and live map integrations.
+- ⚙️ **Backend & Distributed Systems:** Designing robust, scalable RESTful APIs with **C# (.NET Core)**, **Laravel**, and **Python**. Proficient in relational data modeling (**PostgreSQL, MySQL**), asynchronous messaging with **RabbitMQ**, and secure authentication flows (**OAuth 2.0 / Keycloak**).
+- 🤖 **Applied AI & Intelligent Agents:** Architecting conversational interfaces, **RAG pipelines**, and LLM orchestration with **LangChain / LangGraph** and multimodal APIs (**OpenAI, Gemini**).
+- 📡 **Hardware & IoT Telemetry:** Integrating embedded devices (**ESP32, Arduino**) with cloud dashboards for real-time sensor monitoring and device automation.
+- 🏆 **Competitions & Rapid Prototyping:** Passionate about fast-paced hackathons and sprint delivery—transforming conceptual challenges into working, award-winning software.
+
+---
+
+### 💻 The Toolkit
+
+#### Mobile Craft
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-phi-39.vercel.app/api?username=algavania&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats-six-phi-39.vercel.app/api?username=algavania&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=light">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=dark" alt="Mobile Stack" />
 </picture>
+
+#### Web & UI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind&theme=dark" alt="Frontend Stack" />
+</picture>
+
+#### Backend & Data
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,cs,laravel,python,django,nodejs,postgres,mysql,supabase,firebase&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,cs,laravel,python,django,nodejs,postgres,mysql,supabase,firebase&theme=light">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,python,django,nodejs,postgres,mysql,supabase,firebase&theme=dark" alt="Backend Stack" />
+</picture>
+
+#### Hardware, Ops & Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,rabbitmq,docker,git,github,postman,figma&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino,rabbitmq,docker,git,github,postman,figma&theme=light">
+  <img src="https://skillicons.dev/icons?i=arduino,rabbitmq,docker,git,github,postman,figma&theme=dark" alt="Tools Stack" />
+</picture>
+
+---
+
+### 🏆 Trophy Shelf
+
+- 🥇 **1st Best Project & Member** — *BEE 2025* (International Community Innovation)
+- 🥇 **1st Winner** — *National Software Development Competition Hology UB 2024*
+- 🏅 **Top 5** — *Samsung Innovation Campus Batch 5*
+- 🥈 **2nd Winner** — *International IoT Competition IMRO 2023*
+- 🥈 **2nd Winner** — *National Android Competition INVFEST 2023*
+- ✨ *...and several other national hackathons & competition podiums.*
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-phi-39.vercel.app/api?username=algavania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-phi-39.vercel.app/api?username=algavania&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
+    <img src="https://github-readme-stats-six-phi-39.vercel.app/api?username=algavania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="Alga's GitHub Stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-phi-39.vercel.app/api/top-langs/?username=algavania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-phi-39.vercel.app/api/top-langs/?username=algavania&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats-six-phi-39.vercel.app/api/top-langs/?username=algavania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 Always curious, always building. Crafted with good vibes.</sub>
+</div>
