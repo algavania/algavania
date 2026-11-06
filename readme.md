@@ -34,30 +34,30 @@
 
 #### Mobile Craft
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=light">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=dark" alt="Mobile Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Cjava%2Candroidstudio&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Cjava%2Candroidstudio&theme=light">
+  <img src="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Cjava%2Candroidstudio&theme=dark" alt="Mobile Stack" />
 </picture>
 
 #### Web & UI
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind&theme=dark" alt="Frontend Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Cts%2Cjs%2Chtml%2Ccss%2Ctailwind&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Cts%2Cjs%2Chtml%2Ccss%2Ctailwind&theme=light">
+  <img src="https://skillicons.dev/icons?i=react%2Cvue%2Cts%2Cjs%2Chtml%2Ccss%2Ctailwind&theme=dark" alt="Frontend Stack" />
 </picture>
 
 #### Backend & Data
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,cs,laravel,python,django,nodejs,postgres,mysql,supabase,firebase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,cs,laravel,python,django,nodejs,postgres,mysql,supabase,firebase&theme=light">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,python,django,nodejs,postgres,mysql,supabase,firebase&theme=dark" alt="Backend Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Ccs%2Claravel%2Cpython%2Cdjango%2Cnodejs%2Cpostgres%2Cmysql%2Csupabase%2Cfirebase&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Ccs%2Claravel%2Cpython%2Cdjango%2Cnodejs%2Cpostgres%2Cmysql%2Csupabase%2Cfirebase&theme=light">
+  <img src="https://skillicons.dev/icons?i=dotnet%2Ccs%2Claravel%2Cpython%2Cdjango%2Cnodejs%2Cpostgres%2Cmysql%2Csupabase%2Cfirebase&theme=dark" alt="Backend Stack" />
 </picture>
 
 #### Hardware, Ops & Tools
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,rabbitmq,docker,git,github,postman,figma&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino,rabbitmq,docker,git,github,postman,figma&theme=light">
-  <img src="https://skillicons.dev/icons?i=arduino,rabbitmq,docker,git,github,postman,figma&theme=dark" alt="Tools Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino%2Crabbitmq%2Cdocker%2Cgit%2Cgithub%2Cpostman%2Cfigma&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino%2Crabbitmq%2Cdocker%2Cgit%2Cgithub%2Cpostman%2Cfigma&theme=light">
+  <img src="https://skillicons.dev/icons?i=arduino%2Crabbitmq%2Cdocker%2Cgit%2Cgithub%2Cpostman%2Cfigma&theme=dark" alt="Tools Stack" />
 </picture>
 
 ---
